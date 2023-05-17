@@ -30,7 +30,7 @@ font-family: 'Montserrat', sans-serif !important; font-size:12px;
 .top-bar-rgt li a {color: #fff;}
 
  /*----------HEADERB BG -----------*/
-.topheader { ; background:url(https://primesellability.com/ecolux2/images/headerbg.gif) 0 0 repeat-x #000; background:#000;}
+.topheader { ; background:url(https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/headerbg.gif) 0 0 repeat-x #000; background:#000;}
 
  /*----------NAV BG BG -----------*/
 
@@ -84,13 +84,13 @@ color: white;
 .btn2 {margin-left: 5px;}
 .btn2 span { font-size: 18px;}
 .btn1:hover, .btn2:hover {color: #000}
- .prod-btm{background:url("https://primesellability.com/ecolux2/images/medal.png") 98% center no-repeat #a5a5a5; margin: 0 -15px; padding: 10px 15px 14px; color: #fff;
+ .prod-btm{background:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/medal.png") 98% center no-repeat #a5a5a5; margin: 0 -15px; padding: 10px 15px 14px; color: #fff;
  
  
  color: #fff;
 background-size: 25px auto;
 background-color: #222222;
-background-image: url(https://primesellability.com/ecolux2/images/medal.png);
+background-image: url(https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/medal.png);
 background-repeat: no-repeat;
 background-position: 98% 15px;
 margin-top: 0;
@@ -212,7 +212,7 @@ footer li {line-height:25px; font-size:12px; font-weight: 300;}
 	 
 	 /*----reviews-------*/
 	 
-	  .confidence {background:url("https://primesellability.com/hpcreeledbulbs3/images/confidencebg.jpg") center no-repeat #222; background-size:cover; min-height: 380px; color: white; margin-top: 15px;}
+	  .confidence {background:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/confidencebg.jpg") center no-repeat #222; background-size:cover; min-height: 380px; color: white; margin-top: 15px;}
 	 .confidence h1 {color: white; text-align: center; text-transform: uppercase; margin-top: 60px; margin-bottom: 60px;}
 	 .confidence b {font-size: 16px;  }
 	 .confidence p {}
@@ -327,7 +327,7 @@ footer li {line-height:25px; font-size:12px; font-weight: 300;}
 .btm {  
 font-weight: 600;
 line-height: 2.6em;}
-/*.banner {background:url("https://primesellability.com/ecolux2/images/banner.jpg") center no-repeat #727272; background-size:cover; min-height:212px; margin-top:6px;}*/
+/*.banner {background:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/banner.jpg") center no-repeat #727272; background-size:cover; min-height:212px; margin-top:6px;}*/
 .inner{border: 1px solid #222222;}
 .desc-rgt .inner h5{background: #727272; padding: 12px; margin: 0;color: #fff;}
 .wtsnw {margin-bottom: 15px; margin-top:35px; text-align:center;}
@@ -348,7 +348,7 @@ footer .signup {border-left: 1px solid #54585e; padding-left:5%}
 .title img {margin-top:10px;}
 .ratings {margin-bottom: 2px; padding:9px 10px 8px 0; font-size:11px; color:#53565a;}
 .ratings span {margin-right: 10px; }
-.ratings i {display:inline; background:url("https://primesellability.com/ecolux2/images/star.gif") center no-repeat; padding: 7px;}
+.ratings i {display:inline; background:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/star.gif") center no-repeat; padding: 7px;}
 .price{ }
 .price h3 { margin-top: 2px; margin-bottom: 12px; color: #d31d18;}
 .price p {font-size:11px;}
@@ -366,7 +366,7 @@ footer .signup {border-left: 1px solid #54585e; padding-left:5%}
 .dlvry .l p {color: #858585;}
 .dlvry .l h4{margin: 10px 0 0;}
 .dlvry .r {padding: 8px;}
-.shp {border: 1px solid #e5e5e5;padding: 10px 10px 10px 50px; background:url("https://primesellability.com/ecolux2/images/plug.gif") 10px center no-repeat;}
+.shp {border: 1px solid #e5e5e5;padding: 10px 10px 10px 50px; background:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/plug.gif") 10px center no-repeat;}
 main {min-width: 310px; margin:auto; background: #fff; position:relative;}
 section { display: none; padding: 20px 0 0; color:#383838; font-size:15px; line-height:20px; font-weight: 300;}
 main input { display: none;}
@@ -414,7 +414,7 @@ main label.lasttab {border-right: 0px;}
 .prod-btm ul {display: inline-flex;margin: 0 auto;padding: 0;}
 .prod-btm ul li {list-style: none; padding: 5px 2px;}
 
-.prod-btm ul li { list-style-image:url("https://primesellability.com/ecolux2/images/tick.png"); margin-left:25px; padding-left:0px;}
+.prod-btm ul li { list-style-image:url("https://raw.githubusercontent.com/ruudg10/hpcreeledbulbs3/main/images/tick.png"); margin-left:25px; padding-left:0px;}
 .prod-btm h3 {margin: 0px 10px 0px 0; float:left; width:90%}
 .prod-desc {margin-top: 50px;}
 .prod {margin-top: 10px;}
